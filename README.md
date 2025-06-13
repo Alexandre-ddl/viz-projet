@@ -19,8 +19,8 @@ Y a-t-il des effets de genre dans les données ? La popularité des prénoms don
 
 - Julian Silva
 - Alexandre Desgrees du lou 
-- Mathieu  
-- Merlin
-- Louis 
+- Mathieu Delarue
+- Merlin Poitou
+- Louis Borreill
 
 
