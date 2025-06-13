@@ -94,7 +94,7 @@ python3 -m venv venv
   pip freeze > requirements.txt
   ```
 
-## 5. Désactiver l'environnement virtuel
+### Désactiver l'environnement virtuel
 
 ```bash
 deactivate
