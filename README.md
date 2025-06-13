@@ -100,5 +100,29 @@ python3 -m venv venv
 deactivate
 ```
 
+## Structure du projet
+
+```
+.
+├── README.md
+├── codes/               # Notebooks Jupyter à faire tourner
+│   ├── viz1.ipynb
+│   ├── viz2.ipynb
+│   └── viz3.ipynb
+├── datas/              # Données brutes
+│   ├── departements.geojson
+│   └── dpt2020.csv
+├── outputs/            # Résultats png
+│   ├── viz-1/
+│   │   ├── top5_prenoms_feminins.png
+│   │   └── top5_prenoms_masculins.png
+│   └── viz-2/
+│       └── viz2_output.png
+├── requirements.txt    # Déps Python
+└── sketch/             # Maquettes
+    └── viz-1/
+        └── viz.pdf
+```
+
 
 
